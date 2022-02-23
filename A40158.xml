@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration to the Iews for them to read over in which they may see that the Messiah is come, according to their own prophets and Gabriel the angel, and according their own number of time and years, out of Daniel 9 / by George Fox.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40158</idno>
+            <idno type="STC">Wing F1792</idno>
+            <idno type="STC">ESTC R16562</idno>
+            <idno type="EEBO-CITATION">12599338</idno>
+            <idno type="OCLC">ocm 12599338</idno>
+            <idno type="VID">64114</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40158)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64114)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 316:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration to the Iews for them to read over in which they may see that the Messiah is come, according to their own prophets and Gabriel the angel, and according their own number of time and years, out of Daniel 9 / by George Fox.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John White ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. 12.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Messiah --  Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64114:1"/>
+            <pb facs="tcp:64114:1" rendition="simple:additions"/>
+            <p>A Declaration to the IEWS For them to READ OVER, IN WHICH They may ſee that the <hi>Meſsiah</hi> is come, according to their own Prophets, and <hi>Gabriel</hi> the Angel.</p>
+            <p>And according their own number of time and years, out of <hi>Daniel</hi> 9.</p>
+            <p>By <hi>George Fox:</hi>
+            </p>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>John White,</hi> at the backſide of the old <hi>Exchange,</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:64114:2"/>
+            <pb n="3" facs="tcp:64114:2" rendition="simple:additions"/>
+            <head>A <hi>Declaration</hi> to the <hi>Iews</hi> for them to Read over, in which they may ſee that the <hi>Meſsiah</hi> is come, according to their own Prophets, and <hi>Gabriel</hi> the Angel, And according to their own number of time and years, out of <hi>Dan. 9.</hi>
+            </head>
+            <p>FRom the Building of the Temple at <hi>Jeruſalem</hi> ſpoken of by <hi>Daniel</hi> in the ninth chapter, was ſeven weeks, or fourty nine years, in which the Temple was built, from the finiſhing of which there was ſixty two weeks, which is four hundred thirty and four years, un<g ref="char:EOLhyphen"/>til the Baptiſme of Chriſt, And after the ſixty two weeks There was one week in the which the Meſſiah ſhould be ſlain, but not for himſelf; And the People of the Prince that ſhould come ſhould deſtroy the City, and the Sanctuary that was builded, and the end thereof ſhould be with a floud, and unto the end of the battel it ſhould be deſtroyed with deſo<g ref="char:EOLhyphen"/>lation, and he ſhall confirm the Covenant with many, for in one week, in the midſt of the week he ſhall cauſe the daily ſa<g ref="char:EOLhyphen"/>crifice to ceaſe, which Death was about three years and a half after Chriſt was baptized; For ſayes the Angel <hi>Gabriel,</hi> in the laſt verſe of that ninth chapter, And in the midſt of the week, that is three days and an half, he ſhall cauſe the <hi>Iews</hi> Sacrifice and the Oblation to ceaſe, <hi>&amp;c.</hi> which Sacrifice ends all other Sacrifices, and the Covenant being confirmed with many of his Diſciples, they preached it up and down in the Synagogues and Temples, and among the Heathen; And Chriſt Preached of the deſtruction of the Temple after it was built, which was builded unto him, the Prince, the <hi>Meſſiah,</hi> he preached the deſtruction of the Temple, that it ſhould be thrown down, and not one ſtone left upon another, and it was thrown down [according to his Prophecy] by the Hea<g ref="char:EOLhyphen"/>then,
+<pb n="4" facs="tcp:64114:3"/>And he ſaid Jeruſalem ſhould be compaſſed about with armies, and troden under foot, and they ſcattered abroad o<g ref="char:EOLhyphen"/>ver all Nations, which thing came to paſſe (according to his prophecy) and never had ye a prophecy that you ſhould be gathered again to outward <hi>Jeruſalem,</hi> and that your walls ſhould be built again.</p>
+            <p>And now if you do believe <hi>Moſes, Jeremiah, Samuel, Iſaiah, Ezekiel, Zechariah, Daniel</hi> &amp; the reſt of the Prophets, and <hi>Gabriel</hi> that ſpake unto <hi>Daniel,</hi> ye muſt believe that Chriſt is come in the fleſh; They prophecyed of him &amp; ſet the time, and ſet the year that he ſhould come, which time and year is over and come, and paſt, according to the prophets &amp; Angels words, as you may read what <hi>Gabriel</hi> ſaid to <hi>Daniel,</hi> who numbred the time of your captivity, as <hi>Jeremiah</hi> and numbered the time of building of the Temple, and numbred the time in which the Meſſias ſhould come the Prince.</p>
+            <p>And now if <hi>Gabriel</hi> ſpake truth, and <hi>Daniel</hi> and the Pro<g ref="char:EOLhyphen"/>phets ſpoke truth, then you muſt believe that the <hi>Meſſias</hi> is come according to their words.</p>
+            <p>And whether or nay one did not come in that year accord<g ref="char:EOLhyphen"/>ing to <hi>Gabriel,</hi> and <hi>Daniel</hi> and the Prophets, that was called a <hi>Meſſiah</hi> and a Prince? whether the City was not built and the people were not gathered before he came, and after he was come, whether ſuch an one was not cut off according to the week, and after your City deſtroyed, and Temple, and you ſcattered over all Nations, according to the <hi>Meſſias</hi> Prophecy?</p>
+            <p>And whether or nay his Covenant was not confirmed with many that were his Diſciples that preached up and down the one Offering after he was cut off?</p>
+            <p>And whether or nay God did not prepare him a Body, ac<g ref="char:EOLhyphen"/>cording to <hi>Davids</hi> Prophecy to do his will, which God accep<g ref="char:EOLhyphen"/>ted more than burnt-offerings, and ſacrifices &amp; oblations, who put an end to them, for the over-ſpreading of the abominati<g ref="char:EOLhyphen"/>on that made the deſolation, until your offerings were con<g ref="char:EOLhyphen"/>ſumed, and the place where you offered?</p>
+            <p>And whether or nay he did not come poor, Riding upon an Aſſe, the foal of an Aſſe, according to <hi>Zechariahs</hi> Prophe<g ref="char:EOLhyphen"/>cy, <hi>Zachariah</hi> the ninth chapter, Riding into <hi>Jeruſalem,</hi> who ſhould let the Priſoners out of the Pit where there was no wa<g ref="char:EOLhyphen"/>ter,
+<pb n="5" facs="tcp:64114:3"/>who ſhould give the water to the thirſty, and bread to the hungry?</p>
+            <p>And whether or nay you did not hide your faces from him, he being a man of ſorrow, and acquainted with griefs, accor<g ref="char:EOLhyphen"/>ding to <hi>Iſaiahs</hi> propheſies? <hi>Iſa.</hi> 53.</p>
+            <p>And whether or no you did not ſtop your ears, and blind your eyes, that you heard not, nor ſee not when he came, and ſo you have loſt the number of time?</p>
+            <p>And whether or no <hi>Davids</hi> propheſie is not fulfilled upon you, who ſaid, let their eyes be blinded, and their Table be made a ſnare and a trap, and they bow down their backs al<g ref="char:EOLhyphen"/>wayes, as you have done under every Government?</p>
+            <p>That when he did come who was <hi>Davids</hi> ſon, that <hi>David</hi> called Lord the King of Glory, your gates were not ſet open to let him in, but his place amongſt you was a Manger.</p>
+            <p>And did not <hi>Malachi</hi> propheſie of him, and was one of the laſt Prophets amongſt you?</p>
+            <p>And did not <hi>Iohn</hi> come to prepare the way before him, who baptized multitudes of the Jews, who was the Son of <hi>Zachary,</hi> who was put to death by <hi>Herod</hi> at the pleaſing of his Daugh<g ref="char:EOLhyphen"/>ters dancing he beheaded in priſon on his birth-day?</p>
+            <p>And did not you perſecute many of his Diſciples, and caſt in priſon for witneſſing Chriſt the Meſſias the Prince among you, who was come according to <hi>Moſes</hi> and the Prophets, <hi>Ga<g ref="char:EOLhyphen"/>briel</hi> and <hi>Daniel?</hi>
+            </p>
+            <p>Did not they often tell your Fathers that their eyes were blinded, and their ears dull that they heard nor ſee not?</p>
+            <p>And did not the Meſſiah the Prince tell you, in the dayes amongſt your Fathers, that your houſe ſhould be left deſolate, ſo are not all your Temples, Sanctuaries, and chief places of Offerings, have they not all been deſolate, and have been ever ſince?</p>
+            <p>And did not he ſay unto you that you ſhould ſee his face no more, until you ſaid <hi>Bleſſed is he that cometh in the Name of the Lord?</hi> therefore if your houſes be left deſolate, there was ne<g ref="char:EOLhyphen"/>ver no promiſe of the Lord that they ſhould be built again; but happy is any of you who can ſay, <hi>Bleſſed is he that cometh in the Name of the Lord,</hi> who receive him receive the end of Offe<g ref="char:EOLhyphen"/>rings and Sacrifices.</p>
+            <pb n="6" facs="tcp:64114:4"/>
+            <p>And did not <hi>Moſes</hi> ſay like unto him would God raiſe up a Prophet, him ſhould they hear in all things; and he would raiſe up a Prophet of their Brethren?</p>
+            <p>And the Prophets and <hi>David</hi> witneſſe that the Meſſias ſhould come of the ſeed of <hi>David</hi> and <hi>Abraham</hi> according to the fleſh.</p>
+            <p>And was not <hi>Joſeph</hi> and <hi>Mary</hi> of the houſhold of <hi>David,</hi> and was not his name called <hi>Immanuel</hi> according to <hi>Iſaiahs</hi> prophe<g ref="char:EOLhyphen"/>ſie? <hi>Iſa.</hi> 7.14.</p>
+            <p>And born in the year according to <hi>Daniel</hi> and <hi>Gabriel, Da<g ref="char:EOLhyphen"/>niel 9.</hi>
+            </p>
+            <p>And did not <hi>David</hi> ſay <hi>he would not ſuffer his Holy One to ſee corruption, nor leave his ſoul in Hell?</hi> he ſaw the travail of his ſoul, and therefore was ſatisfied, according to <hi>Iſaiahs</hi> pro<g ref="char:EOLhyphen"/>pheſie.</p>
+            <p>Therefore after you had killed him by a ſhameful death up<g ref="char:EOLhyphen"/>on the Croſſe, and buried him, did not he riſe again and ſaw no corruption, whom neither death, bonds, nor grave could contain nor hold? though the Prieſts gave the Souldiers mo<g ref="char:EOLhyphen"/>ney to ſay that his Diſciples ſtole him away by night, who now remains in the Heavens at the right hand of God until the reſtitution of all things, who after his Reſurrection was ſeen of many Brethren, and many Witneſſes, who were the Witneſſes of his Reſurrection amongſt your Fore-fathers, and amongſt whom (your Fathers) he wrought many Miracles, and did many Wonders, to the aſtoniſhment of the very Hea<g ref="char:EOLhyphen"/>then, and of many of your Fore-fathers, yet their hearts be<g ref="char:EOLhyphen"/>ing hardned, and their eyes being blinded, and could not nor would not neither ſee nor believe, therefore did he pronounce the woes againſt you which is come upon you; <hi>and he doth en<g ref="char:EOLhyphen"/>lighten every man that cometh into the world,</hi> and is that which checks you for ſin and evil, which if you believe in the Light you come to receive him that all the Prophets <hi>Moſes</hi> and <hi>Ga<g ref="char:EOLhyphen"/>briel</hi> ſpoke of, who is the Prophet that is to be heard, and King that <hi>Daniel</hi> propheſied of, whoſe Kingdom is an everlaſting Kingdom, and Dominion an everlaſting Dominion that hath no end, who is the ſtone cut out of the Mountain, and the ſeed without hands that daſheth all that is contrary to it, and be<g ref="char:EOLhyphen"/>comes a great Mountain, for you are hewing and cutting,
+<pb n="7" facs="tcp:64114:4"/>and all other Heathen upon the earth, and making Mountains with hands, and ſo Nations or Kingdoms; this ſtone without hands that is cut out of the Mountain without ſword and ſpear, breaks all to pieces, and it becomes an everlaſting Moun<g ref="char:EOLhyphen"/>tain and an everlaſting Kingdom and Dominion, <hi>whereby ſwords and ſpears are broken in plowſhares and pruning hooks, where<g ref="char:EOLhyphen"/>by that Nation ſhall not lift up ſword againſt Nation, neither ſhall they learn war any more,</hi> Micha 4.</p>
+            <p>And <hi>Ieremiah</hi> propheſied of your captivity ſeventy years, and he ſaid when you were brought into the Land, and all Nations ſhould be gathered to it in <hi>Ieruſalem,</hi> and when ye in<g ref="char:EOLhyphen"/>creaſed and multiplyed in the Land, in thoſe dayes ſaith the Lord <hi>they ſhall ſay no more the Ark of the Covenant of God, for it ſhall come no more to be minded, neither ſhall they remember it, neither ſhall they viſit it, for that ſhall be done no more,</hi> Jer. 3.</p>
+            <p>And <hi>Ieremiah</hi> ſaith in the 31. Chapter, <hi>Behold ſaith the Lord the day cometh that I will make a new Covenant with the houſe of Iſrael, and the houſe of Iudah, not according to the Covenant that I made with their Fathers when I took them out of the land of Egypt, which Covenant they brake; But this ſhall be my Covenant that I will make with the houſe of Iſrael after thoſe dayes of their Captivity and return, I will write my Law in their hearts, and I will be their God, and they ſhall be my people; and they ſhall not teach every man his Neighbour, and every man his Brother,</hi> ſaying, <hi>know the Lord, for they ſhall all know me from the leaſt to the greateſt of them, ſaith the Lord, for I will forgive their iniquities, and remember their ſins no more;</hi> Now this is the Meſſiah, and this was promiſed and pro<g ref="char:EOLhyphen"/>pheſied how after he ſhould come into the Land which came into the Land of <hi>Jeruſalem,</hi> according to <hi>Ieremiah,</hi> and <hi>Daniel,</hi> and <hi>Gabriel,</hi> and <hi>Ezekiel</hi> their words and propheſies.</p>
+            <p>And <hi>Jeremiah</hi> ſaith in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>3. Chapter, <hi>after they were car<g ref="char:EOLhyphen"/>ried away captive that they ſhould be brought again into the land, and the Lord promiſed that good thing, he would cauſe his branch of Righ<g ref="char:EOLhyphen"/>teouſneſſe to grow unto David, and he ſhould execute judgement and Righteouſneſſe in the land, and in thoſe dayes Judah ſhall be ſaved and Ieruſalem ſhall dwell ſafely, and he ſhould call and ſay here is the Lord our Righteouſneſſe</hi> (Mark) <hi>that calls Iudah and calls Ieru<g ref="char:EOLhyphen"/>ſalem, that makes them to dwell ſafely. And thus ſaith the Lord, David ſhall never want a man to ſit upon the Throne, upon the houſe
+<pb n="8" facs="tcp:64114:5"/>of Iſrael; neither ſhall the Prieſts and Levites want a man for me to offer up the burnt-offerings, and the meat offerings, and to do Sa<g ref="char:EOLhyphen"/>crifice continually;</hi> Now this was after their coming into the Land, and after the Meſſiah was born, and the branch of Righ<g ref="char:EOLhyphen"/>teouſneſſe ſprung, and he ſhould ſit upon the Throne of <hi>David,</hi> and execute Judgment and Righteouſneſſe in the land, then the Prieſts and Levites ſhould have their men to offer meat-offerings, and burnt-offerings, and ſacrifices continually, and this was after Chriſt was come; but when he was offered up, and ſacrificed up that one offering once for all, who judge and executed judgment amongſt you before he was offered up both among the Jews and at <hi>Jeruſalem,</hi> when he I ſay was offered up, he cauſed thoſe things (the offerings) to ceaſe, and fulfil<g ref="char:EOLhyphen"/>led them according to <hi>Gabriels</hi> words and <hi>Daniels</hi> propheſie, and ends the Prieſt-hood, the Levitical Prieſt-hood, who came not of the Tribe of <hi>Levi</hi> nor <hi>Aaron,</hi> but of <hi>Iudah</hi> that Lion; ſo in one week in the midſt of the week he ſhould cauſe the daily Sacrifice and Oblation to ceaſe, and ſo this was the Covenant propheſied of by <hi>Jeremiah,</hi> and this was he that <hi>Moſes</hi> prophe<g ref="char:EOLhyphen"/>ſied of, like unto him would God raiſe up a Prophet which the People ſhould hear.</p>
+            <p>And <hi>Stephen</hi> witneſſed him before the Council in the dayes of <hi>Herod</hi> whom your Fathers cauſed to be ſtoned to death.</p>
+            <p>And after this Covenant was come, you ſhould ſay no more the Ark of God, nor mention it, nor let it come into your minds, this was after ye were come into the Land, and <hi>Zacha<g ref="char:EOLhyphen"/>riahs</hi> Propheſies, who propheſied of the deſtruction of <hi>Ieru<g ref="char:EOLhyphen"/>ſalem,</hi> who propheſied again, that <hi>Ieruſalem</hi> ſhould be ſafely inhabited, and they that fought againſt <hi>Ieruſalem,</hi> ſhould come up to worſhip year by year, and keep the feaſts of Taberna<g ref="char:EOLhyphen"/>cles; and the Lord would ſmite the <hi>Heathen</hi> and <hi>Egyptians</hi> that came not unto <hi>Ieruſalem,</hi> that came not up to keep the feaſt of Tabernacles; and the Pots in the Lords Houſe ſhould be like the Bowls before the Altar, and every pot ſhould be holy, and all they that ſacrificed ſhould come and take of them, after the people were come to worſhip at <hi>Ieruſalem,</hi> and the Moun<g ref="char:EOLhyphen"/>tain which was the place of worſhip; when Chriſt ſaid to the woman of <hi>Samaria,</hi> the time was come and now is, that neither at <hi>Ieruſalem,</hi> nor at this Mountain; But they that worſhip the
+<pb n="9" facs="tcp:64114:5"/>Father, ſhall worſhip him in ſpirit and truth, for ſuch the Father ſeeketh to worſhip him.</p>
+            <p>Now this was before Chriſt was offered up that ends the Of<g ref="char:EOLhyphen"/>ferings, Altars, Sacrifices, Feaſt of Tabernacles, for the Lord ſhould come, my God and all his Saints, and the Lord ſhould be King over all the Earth. And when <hi>Jeruſalem</hi> was ſafe, and Nations came up to it, there was the Feaſt of Ta<g ref="char:EOLhyphen"/>bernacles to be kept, but after Chriſt was offered up though thoſe things were practiſed in the daies of his fleſh, while he was upon the Earth, and did not cauſe them to ceaſe until he was offered up, and then he ended them; And then he pro<g ref="char:EOLhyphen"/>pheſied of the deſtruction of <hi>Ieruſalem</hi> and the Walls, and your ſcattering over all Nations, <hi>and did not propheſie of your bringing back again to offer,</hi> and to ſacrifice and keep the feaſt of Tabernacles again at <hi>Ieruſalem,</hi> and did not ſay that your out<g ref="char:EOLhyphen"/>ward worſhip ſhould be ſet up again at <hi>Ieruſalem.</hi>
+            </p>
+            <p>But the ſcattering was for the bringing in of the <hi>Gentiles,</hi> according to the promiſe of God by his Prophets; I will give him for a Covenant and a Light to the <hi>Gentiles,</hi> and he ſhall be my Salvation to the ends of the Earth, which many of the <hi>Gentiles</hi> now have received and believed the Covenant of Light promiſed to the Prophets, though many of them do not live the life, through whoſe lives and fruits the name of the Meſſiah is diſhonoured, and the unbelievers in him hardened through them that profeſſe him in words, and deny him in life; Nevertheleſſe, the Foundation of God and the New Covenant ſtandeth ſure, and his promiſe agreeable to all his Prophets, and <hi>Gabriels</hi> words, as you may number <hi>Daniel</hi> the ninth your ſelves, that in ſuch a time the Meſſiah was to come.</p>
+            <p>And whether or no ſuch an one was not born in the ſame year, when all <hi>Jeruſalem</hi> was in an uproar at his birth; <hi>Herod</hi> gathered all the chief Prieſts together, and demanded of them where Chriſt ſhould be born, and they ſaid in <hi>Bethlehem</hi> of <hi>Judah,</hi> for thus it is written by the Prophet; So whether or no ſuch an one did not come according to the Prophets words, and ſuffered according to his words, and his Gar<g ref="char:EOLhyphen"/>ment parted, and caſt lots for according to the Prophets words, and one of his own Diſciples betrayed him for thirty
+<pb n="10" facs="tcp:64114:6"/>pieces of Silver, according to <hi>Davids</hi> words.</p>
+            <p>And as it is written, blindneſſe happened unto <hi>Iſrael</hi> until the fulneſſe of the <hi>Gentiles</hi> be come in, and ſo all <hi>Iſrael</hi> ſhall be ſaved, as it is written, <hi>the Deliverer ſhall come unto</hi> Zion, <hi>and ſhall turn away ungodlineſſe from</hi> Jacob, <hi>and this is my Covenant with them, when I ſhall take away their ſins;</hi> For that is it which blinds, and that Light which is the Covenant, is that which opens the eye, in which the <hi>Jews</hi> and <hi>Gentiles</hi> is one.</p>
+            <p>So the Lord will ſave now through the Blood of his Cove<g ref="char:EOLhyphen"/>nant, and the offering the Sacrifice Chriſt Jeſus, who deſtroyes the Devil the old lyar, and the author of ſin, who hath impri<g ref="char:EOLhyphen"/>ſoned his people, and brought them into the Pit, where they have wanted the water; And he the Covenant and Meſſiah brings the Priſoner out of the Pit, and gives the water, and returns the Priſoner of hope, and renders double to him that hath priſoned; and he is called the Saviour, and he is <hi>Iſraels</hi> Saviour, and the <hi>Gentiles</hi> Leader and Covenant, yea the Sal<g ref="char:EOLhyphen"/>vation to the ends of the Earth, whom the Iſles wait for; And the Prophet ſaid, Kings ſhall be nurſing Fathers, and Queens nurſing Mothers, <hi>Iſa.</hi> 49.23. and they ſhall wor<g ref="char:EOLhyphen"/>ſhip with their faces downward, and lick the duſt of the Earth, for the Lord had ſaid, he would lift up his hand to the <hi>Gen<g ref="char:EOLhyphen"/>tiles,</hi> and Standard to the people, and they ſhould bring their ſons the <hi>Jews</hi> in their arms, and thy Daughters ſhould be car<g ref="char:EOLhyphen"/>ried upon their ſhoulders, the <hi>Gentiles;</hi> the <hi>Gentiles</hi> that had carried them away Captive, and the Lord would make them bring them back again, that had ſcourged them, and nurſe them, and carry the <hi>Jews</hi> with their faces downward and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ick the duſt, and ſo you were brought again to your own land; and did not <hi>Cyrus</hi> and <hi>Darius</hi> and others aid you, and hath not the Lord lift up his Hand and his Standard to the <hi>Gentiles,</hi> which many have received?</p>
+            <p>
+               <hi>Iſaiah</hi> was the ſon of <hi>Amos,</hi> and prophecied about <hi>ſeven hun<g ref="char:EOLhyphen"/>dred ſeventy eight years</hi> before the Meſſiah was born; And he propheſied of the <hi>Jews</hi> to be carried away Captive by the <hi>Hea<g ref="char:EOLhyphen"/>then;</hi> and how that the <hi>Gentiles</hi> ſhould be nurſing Fathers, and Kings ſhould ſtoop down, and bend down, and be made to carry them again and be Nurſe to them, and that the <hi>Jews</hi> ſhould get a top of that which Captivated them, and this was
+<pb n="11" facs="tcp:64114:6"/>the carrying away from <hi>Jeruſalem,</hi> and the carrying again to <hi>Jeruſalem;</hi> Who alſo propheſied of the Meſſiah that ſhould come amongſt them, to whom they ſhould hide their faces, amongſt whom the <hi>Jews, Iſaiah</hi> was a Signe and a Wonder to both the Houſes of <hi>Iſrael</hi> and <hi>Judah,</hi> which was before they were carried away Captive, who were degenerated from the Lord by their Idolatry, their Sacrifices, their Offerings, and their Temples that he turned them from, And ſaid, the moſt High dwelt not in Temples made with hands; and he that offered Sacrifice, was as if he bleſſed an Idol; he pro<g ref="char:EOLhyphen"/>pheſied in the daies of <hi>Hezekiah</hi> King of <hi>Judah, Iſa.</hi> 37.1, 2. 2 <hi>Kings</hi> 19.</p>
+            <p>
+               <hi>Jer.</hi> 1, 2, 3. <hi>Jeremiah</hi> propheſied in the daies of <hi>Joſiah,</hi> and in the daies of <hi>Amon, Zedekiah, Zachariah</hi> and <hi>Haggai</hi> propheſied in the ſecond year of <hi>Darius,</hi> five hundred ninteen years be<g ref="char:EOLhyphen"/>fore Chriſt.</p>
+            <p>And Chriſt came not according to your minds, in Pomp and Glory as the Kings of the Kingdoms of this World doth and did, but he came meek, poor and diſpiſeable, and having no beauty to be deſired, and a man of ſorrows and griefs, from whom you hid your faces, and crying away with him, he ſhould not reign over us; you would have no King but <hi>Caeſar,</hi> and deſired a murtherer, and crucified him; and when <hi>Pilate</hi> ſaid to you behold your King, and waſhed his hands from his Blood, you cried let his Blood be upon us and our children; who hath been, and brought the miſery upon your ſelves and your children; and <hi>Davids</hi> words are come upon you, who ſaid, <hi>let their Children be Vagabonds,</hi> which hath ſo been to this day, both from your God, and your own Nation.</p>
+            <p>Friends, in the 22. <hi>Pſalm,</hi> did not the ſaying of <hi>David</hi> come to paſſe by you upon Chriſt when he was upon the Croſſe, did not you ſay, he truſted in the Lord, let him deliver him?</p>
+            <p>Secondly, did not you part his Garment, and afterwards caſt lots for his Veſture (according to <hi>Davids</hi> propheſie) when you put him to death?</p>
+            <p>Thirdly, Did not you pierce his feet and hands when you nailed him to the Croſſe, according to <hi>Davids</hi> propheſie in the 22. <hi>Pſalm,</hi> did not you fulfill his ſaying?</p>
+            <pb n="12" facs="tcp:64114:7" rendition="simple:additions"/>
+            <p>Fourthly, Did not you give him vineger and gall to drink, when he was upon the Croſſe, according to <hi>Davids</hi> propheſie in the 69. <hi>Pſalm;</hi> and did not you ſtick in your outward things as a ſnare and gin, and did not God pour forth his anger wrath and diſpleaſure upon you, according to the propheſie of <hi>David,</hi> who called Chriſt Lord?</p>
+            <p>And the propheſie of <hi>Iacob</hi> to his Sons, and to <hi>Judah,</hi> who ſaid the Scepter ſhould not depart from <hi>Judah,</hi> nor the Law-gi<g ref="char:EOLhyphen"/>ver from between his feet, until <hi>Shilo</hi> come, and the people ſhould be gathered unto him, unto <hi>Shilo;</hi> And is not the Law departed from <hi>Judah,</hi> and the Goverment and Scepter? where is his Rule, if you ſay it is not departed? And did not <hi>Shilo</hi> come according to <hi>Jacobs</hi> and <hi>Daniels</hi> propheſie? And <hi>Gabriels</hi> words in the daies of <hi>Herod,</hi> before the Scepter and the Law was departed from <hi>Iudah,</hi> and ſo <hi>Shilo</hi> being come, to him are the people gathered and gathering, accord<g ref="char:EOLhyphen"/>ing to <hi>Jacobs</hi> prophecy, and the Scepter is departed from <hi>Ju<g ref="char:EOLhyphen"/>dah</hi> this 1660. years.</p>
+            <p>Whether did ever the Prophets ſay, that you ſhould be brought again into your own Land, to your outward worſhip, ſacrifices, and the reſt of your Ceremonies, after <hi>Jeruſalem</hi> was deſtroyed, and the Meſſiah offered up according to <hi>Daniel, Gabriel,</hi> and the reſt of the Prophets?</p>
+            <p>Did not all the Prophets propheſie of the New Covenant to you before, and in your Captivity, and that your gathering ſhould be unto him, and that he ſhould come when you were out of Captivity in your own Land?</p>
+            <p>Now if you can believe <hi>Moſes, Iſaiah, Ieremiah,</hi> and <hi>Dani<g ref="char:EOLhyphen"/>el, Gabriel,</hi> and <hi>Ezekiel</hi> their Propheſies, you muſt believe that the Meſſiah is come, and receive the New Covenant.</p>
+            <p>And the Lord ſaid, he would gather his people from the mouth of the ſhepherds, and teach them himſelf, and ſet one King over them, which Teacher and King, many do witneſſe.</p>
+            <p>
+               <hi>From a Lover of all Souls, and of the whole Creation of God, riſen up for the Salvation of all men, who ſeeks that.</hi>
+            </p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>Pag. <hi>3.</hi> l. <hi>23.</hi> for dayes r. years, ibid put out Iews.</p>
+            <pb facs="tcp:64114:7"/>
+         </div>
+      </back>
+   </text>
+</TEI>
